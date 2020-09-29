@@ -1,3 +1,3 @@
 
 FROM httpd:2.4
-ADD . /var/www/html
+ADD . /usr/local/apache2/htdocs
